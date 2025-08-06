@@ -59,6 +59,7 @@ Menyimpan data pasien yang mendaftar ke klinik.
 Tampilan 
 1. Landing Page
    <img width="1891" height="917" alt="image" src="https://github.com/user-attachments/assets/8fa9422f-4f8c-4e10-a17c-0d0c97a9b1ec" />
+   <img width="1892" height="916" alt="image" src="https://github.com/user-attachments/assets/8bf683a8-0622-40ac-83a2-2863afa56b94" />
 2. Input Pendaftaran Pasien
    <img width="1898" height="822" alt="image" src="https://github.com/user-attachments/assets/a8f69e94-505b-4c12-a0fd-046e69354709" />
 3. Login Admin
@@ -74,5 +75,6 @@ Tampilan
 8. Trashed Pasien (Pasien yang sudah di hapus)
    <img width="1209" height="868" alt="image" src="https://github.com/user-attachments/assets/15202a23-282c-42e6-99ba-c31ed0ada2fc" />
 9. Demo email pasien menggunakan Mailtrap
-    ![Uploading image.png…]()
+    <img width="1259" height="855" alt="image" src="https://github.com/user-attachments/assets/f80c5b88-c123-4153-9176-8cd8c910f30c" />
+
 

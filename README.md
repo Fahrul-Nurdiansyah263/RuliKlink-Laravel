@@ -16,7 +16,11 @@ Jadi Alurnya adalah Pasien Daftar lalu mendapatkan email berupa nomor antrian. D
 
 - **Framework**: Laravel 10
 - **Database**: MySQL
-- **Frontend**: Blade 
+- **Frontend**: Blade
+- **Email** : Mailtrap 
+- **SweetAlert** 
+- **Bootstrap**
+
 
 ## 📂 Struktur Tabel Yang Digunakan
 

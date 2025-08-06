@@ -1,4 +1,4 @@
-<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/8a37acc3-8c0c-4c45-b502-6a22eae17ae1" /># 🏥 RuliKlinik
+# 🏥 RuliKlinik
 
 **RuliKlinik** adalah aplikasi manajemen klinik berbasis web yang dibangun menggunakan Laravel. Aplikasi ini dirancang untuk membantu pengelolaan data pasien dan pengguna secara efisien dan terstruktur.
 Jadi Alurnya adalah Pasien Daftar lalu mendapatkan email berupa nomor antrian. Dan admin bisa mengelola pasien. Di web ini juga menggunakan fitur soft deletes yang jika sudah di hapus tidak akan hilang.
